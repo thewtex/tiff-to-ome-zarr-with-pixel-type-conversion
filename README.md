@@ -12,6 +12,8 @@ Motivated by [this thread on the Image.SC forum]().
 pip install ngff-zarr "tifffile<2023.3.22"
 ```
 
+[`tifffile` version constraint reported here.](https://github.com/cgohlke/tifffile/issues/67).
+
 ### Option 2: pixi
 
 Install [pixi](https://pixi.sh), then
