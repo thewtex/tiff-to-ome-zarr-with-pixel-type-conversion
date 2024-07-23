@@ -2,7 +2,7 @@
 
 > Script to convert a TIFF to OME-Zarr while simultaneously converting the pixel type
 
-Motivated by [this thread on the Image.SC forum]().
+Motivated by [this thread on the Image.SC forum](https://forum.image.sc/t/lazy-conversion-into-ome-zarr-while-changing-bit-depth/99511).
 
 ## Installation
 
