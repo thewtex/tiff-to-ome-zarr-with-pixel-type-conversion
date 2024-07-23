@@ -9,3 +9,7 @@ platforms = ["win-64", "linux-64", "linux-aarch64", "osx-64", "osx-arm64"]
 [tasks]
 
 [dependencies]
+python = ">=3.12.4,<4"
+
+[pypi-dependencies]
+ngff-zarr = ">=0.8.3, <0.9"
