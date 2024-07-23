@@ -11,9 +11,7 @@ test = { cmd = "python3 ./tiff-to-ome-zarr-with-pixel-type-conversion.py --pixel
 
 [dependencies]
 python = ">=3.12.4,<4"
-distributed = ">=2024.7.1,<2025"
-dask = ">=2024.7.1,<2025"
-tifffile = ">=2024.7.21,<2025"
+tifffile = "<2023.3.22"
 
 [pypi-dependencies]
 ngff-zarr = ">=0.8.3, <0.9"
