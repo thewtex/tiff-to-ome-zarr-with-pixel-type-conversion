@@ -1,0 +1,11 @@
+[project]
+name = "tiff-to-ome-zarr-with-pixel-type-conversion"
+version = "1.0.0"
+description = "Demonstrate how to convert a TIFF to OME-Zarr while simultaneously converting the pixel type"
+authors = ["Matt McCormick <matt.mccormick@kitware.com>"]
+channels = ["conda-forge"]
+platforms = ["win-64", "linux-64", "linux-aarch64", "osx-64", "osx-arm64"]
+
+[tasks]
+
+[dependencies]
