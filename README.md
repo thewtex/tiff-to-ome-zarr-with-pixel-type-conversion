@@ -4,6 +4,8 @@
 
 Motivated by [this thread on the Image.SC forum](https://forum.image.sc/t/lazy-conversion-into-ome-zarr-while-changing-bit-depth/99511).
 
+Simple application of [ngff-zarr](https://ngff-zarr.readthedocs.io/).
+
 ## Installation
 
 ### Option 1: pip
