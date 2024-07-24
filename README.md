@@ -11,7 +11,7 @@ Simple application of [ngff-zarr](https://ngff-zarr.readthedocs.io/).
 ### Option 1: pip
 
 ```shell
-pip install ngff-zarr "tifffile<2023.3.22"
+pip install ngff-zarr "tifffile>=2024.7.24"
 ```
 
 [`tifffile` version constraint reported here.](https://github.com/cgohlke/tifffile/issues/67).
